@@ -1,10 +1,10 @@
 @tool
 extends VisualShaderNodeCustom
-class_name VisualShaderNodePerlinNoise3D
+class_name IdMapSampler
 
 
 func _get_name():
-	return "IdMap"
+	return "IdMap Sampler"
 
 
 func _get_category():
@@ -12,7 +12,7 @@ func _get_category():
 
 
 func _get_description():
-	return "IdMap Masking"
+	return "IdMap Masking By Sampler2D"
 
 
 func _init():
