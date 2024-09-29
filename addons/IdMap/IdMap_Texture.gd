@@ -3,7 +3,7 @@ extends VisualShaderNodeCustom
 class_name IdMapTexture
 
 func _get_name():
-	return "IdMap Texture"
+	return "IdMapTexture"
 
 
 func _get_category():

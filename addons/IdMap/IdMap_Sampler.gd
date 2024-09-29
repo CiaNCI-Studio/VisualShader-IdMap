@@ -4,7 +4,7 @@ class_name IdMapSampler
 
 
 func _get_name():
-	return "IdMap Sampler"
+	return "IdMapSampler"
 
 
 func _get_category():
